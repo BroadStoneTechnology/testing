@@ -1,1 +1,1 @@
-Adafruit_key = aio_mkRZ66yusCSkPRZTrVrGKnDfWpPU
+Adafruit_key = aio_mkRZ66yusCSkPRZTrVrGKnfDWpPU
