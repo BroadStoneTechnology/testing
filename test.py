@@ -1,6 +1,6 @@
-Adafruit_key = aio_mkRZ66yusCSkPRZTrVrKGnfDWpPU
+Adafruit_key = "aio_mkRZ66yusCSkPRZTrVrKGnfDWpPU"
 
-Adobe_Service_Token = MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCL/+OAawHQ1RiswQIMQRl5zTRv
+Adobe_Service_Token = """MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCL/+OAawHQ1RiswQIMQRl5zTRv
 maDD1c1Yw7OQvYMCjcDDdym3B/bZRbQXgeubbMkc5DoqNJaul3saC2c58Gq0YbgjwxPljWZudHZQ
 rzlSNhsFA1cn7WXJRkA2ik/JXOLQPkDk/XpanOPeemiBt8cn+KnvqY0iQH3l/sWajqpAO+OA4HTF
 W9X6FlESVYNhplV0g/4X2b1CjxaaldwTU68Wxbazk+I98GR+C8VLjnJcALwuzk9O873drcorOjYE
@@ -21,6 +21,6 @@ fpJEiKCbqTcj8jX2Akb0YIfXthWY1ALXyaU9QBNnYz7CdsdzOWhyPPDvjYF9tgPyTTgRCl5o+y2m
 RcQpepQ6yC/ewoE8+KEyhYQQbIif0vod16WLYH+kWyaUV3YsatGioX7c3ovnmZFIcU+O+c3jcTBD
 gOOdAoGBAJD6yTTyFmRi9UBubEdgMiBQhfyZlee0pJ+Tjl46MnX52RwUuloHX39ZtlcNLDx/6VQd
 0xe4Y2c5X1hhm3fdAdW94mXUYivNvmaIAORlEZWurBjxya9a9sbBabMtkupxUXyaLQIgWLwLRxVJ
-C5EMgvVSyEcrh0owU/o/OE4f6ffY
+C5EMgvVSyEcrh0owU/o/OE4f6ffY"""
 
 
